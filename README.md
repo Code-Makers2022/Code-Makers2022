@@ -1,5 +1,4 @@
 # Code Makers
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Makers2022&layout=compact&langs_count=8&theme=monokai)
 ## Quem somos?
 >Uma equipe de desenvolvimento para fins empresariais e acadêmicos, criada no ano de 2022.
 
