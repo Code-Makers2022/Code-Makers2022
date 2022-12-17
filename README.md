@@ -2,6 +2,9 @@
 ## Quem somos?
 >Uma equipe de desenvolvimento para fins empresariais e acadêmicos, criada no ano de 2022.
 ## Equipe:
+__Gerente de projeto__
+* [Cassio Gabriel Lemos Vieira](https://github.com/Ninguem2k)
+
 __Analistas__
 
 * Fernando Rocha Nobre
